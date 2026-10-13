@@ -232,7 +232,7 @@ route outside 0.0.0.0 0.0.0.0 192.168.254.5
 🌐 VLANs  
 🔗 Trunking  
 ↔️ Inter-VLAN Routing  
-🖧  Switch Multilayer 3650  
+🖧    Switch Multilayer 3650  
 📡  DHCP  
 🖥️  Servidores  
 🔒  Segurança com ACLs  
