@@ -229,11 +229,11 @@ route outside 0.0.0.0 0.0.0.0 192.168.254.5
 ---
 
 ## Lições aprendidas 
-✅ VLANs  
-✅ Trunking  
-✅ Inter-VLAN Routing  
-✅ Switch Multilayer 3650  
-✅ DHCP  
-✅ Servidores  
-✅ Segurança com ACLs  
-✅ Planejamento de rede corporativa
+🌐 VLANs  
+🔗 Trunking  
+↔️ Inter-VLAN Routing  
+🖧 Switch Multilayer 3650  
+📡 DHCP  
+🖥️ Servidores  
+🔒 Segurança com ACLs  
+📋 Planejamento de rede corporativa
